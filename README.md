@@ -1,12 +1,13 @@
 <h1>ADAM BOATMAN</strong></h1>
+<p><a href="#profile">Profile</a> | <a href="#technical">Technical Skills</a> | <a href="#offer">What I Can Offer</a> | <a href="#work">Work Experience</a> | <a href="#education">Education</a> | <a href="#other">Other Interests</a> | <a href="#references">References and Other Info</a>
 <p>79 Blacketts Wood Drive, Chorleywood, Herts WD3 5PS</p>
 <p>adam.boatman@gmail.com</p>
 <p>Mobile: 07515 017052</p>
 
-<h3>Profile</strong></h3>
+<h3><a name="profile></a>Profile</strong></h3>
 <p>I am looking to become a full-stack web developer. My previous role required me to learn HTML, CSS, Razor Syntax, Ruby, PHP and Javascript for a variety of projects. However, this was only one aspect of my role and therefore my other responsibilities prevented me from delving further into coding. I therefore decided to move into what I love full time. I have taken a break to travel and since coming back have been teaching myself Javascript in the hope of finding my first role as a Junior Developer.</p>
 
-<h3>Technical Skills Developed</h3>
+<h3><a name="techincal"></a>Technical Skills Developed</h3>
 <ul>
 <li>HTML and CSS (including grid systems)</li>
 <li>Javascript and jQuery</li>
@@ -19,7 +20,7 @@
 <li>Familiar with Agile development concepts</li>
 </ul>
 
-<h3>What Can I Offer?</h3>
+<h3><a name="offer"></a>What Can I Offer?</h3>
 <ul>
 <li><em>Practical leadership skills</em> – Have managed multiple teams and GP practices over the last five years. Managing GP’s requires a very different skillset to managing admin assistants and I have therefore learnt to maintain a flexible management style.</li>
 <li><em>People Skills and Teamwork</em> – I have worked with a wide range of people. I have had to deal with angry patients, top level consultants, multiple outside contractors including digital agencies and have received consistent feedback that I am approachable, supportive and a good listener. I am always willing to do anything to help others succeed and provide any support necessary.</li>
@@ -28,7 +29,7 @@
 <li><em>Curiosity</em> - The main reason I am able to learn new skills quickly is curiosity. I am happiest when learning new skills and as such software development, a field where you are continuously learning, matches my mentality perfectly.</li>
 </ul>
 
-<h3>Work Experience</h3>
+<h3><a name="work"></a>Work Experience</h3>
 
 <h4>The Fortius Clinic - Private orthopaedic and sports injury group</h4>
 <p><em>October 2012 - January 2017</em></p>
@@ -51,7 +52,7 @@
 <h4>Off to Work - Catering and Events Company</h4>
 <p><em>October 2009 – August 2010</em></p>
 
-<h3>Education</h3>
+<h3><a name="education"></a>Education</h3>
 
 <p>University of Birmingham 2007 - 2010</br>
 <p>BA (Hons) History and Social Science: 2.1</p>
@@ -59,12 +60,12 @@
 <p>I chose to take modules in Sociology, Media Studies and Art History to complement my historical studies and broaden my education.</p>
 <p>Dissertation concerning the Reformation in Europe: 1st</p>
 
-<h3>Other Interests</h3>
+<h3><a name="other"></a>Other Interests</h3>
 <p>Sport, cooking, travelling, literature and film</p>
 <p>I am an obsessive cook and am currently in the process of setting up a street food stall as a side project.</p>
 <p>I love travelling and have recently come back from a six month stint in Sri Lanka, India, Nepal and Vietnam. I wrote a blog about my experiences here.</p>
 
-<h3>Referees</h3>
+<h3><a name="references"></a>Referees</h3>
 <p>Dr V Rashid - (Locality clinical lead for Bucks, North West London and Surrey) - 07727653431</p>
 <p>Felicity Kelly - (Chief Strategy and Communications Officer) - felicity.kelly@fortiusclinic.com</p>
 
