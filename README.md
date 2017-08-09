@@ -4,10 +4,10 @@
 <p>adam.boatman@gmail.com</p>
 <p>Mobile: 07515 017052</p>
 
-<h3><a name="profile></a>Profile</strong></h3>
+<h3><a name="profile"></a>Profile</strong></h3>
 <p>I am looking to become a full-stack web developer. My previous role required me to learn HTML, CSS, Razor Syntax, Ruby, PHP and Javascript for a variety of projects. However, this was only one aspect of my role and therefore my other responsibilities prevented me from delving further into coding. I therefore decided to move into what I love full time. I have taken a break to travel and since coming back have been teaching myself Javascript in the hope of finding my first role as a Junior Developer.</p>
 
-<h3><a name="techincal"></a>Technical Skills Developed</h3>
+<h3><a name="technical"></a>Technical Skills Developed</h3>
 <ul>
 <li>HTML and CSS (including grid systems)</li>
 <li>Javascript and jQuery</li>
