@@ -9,15 +9,17 @@
 
 <h3><a name="technical"></a>Technical Skills Developed</h3>
 <ul>
-<li>HTML and CSS (including grid systems)</li>
-<li>Javascript and jQuery</li>
-<li>Ruby and Rails</li>
-<li>Object orientated programming</li>
-<li>Test driven design</li>
-<li>Pair programming</li>
-<li>Git and Github</li>
-<li>Mirth and Systems Integration</li>
-<li>Familiar with Agile development concepts</li>
+  <li>HTML and CSS</li>
+  <li>Javascript and jQuery</li>
+  <li>React</li>
+  <li>Mongo DB and Express</li>
+  <li>Ruby on Rails (old knowledge)</li>
+  <li>Object orientated programming</li>
+  <li>Test driven design</li>
+  <li>Pair programming</li>
+  <li>Git and Github</li>
+  <li>Mirth and Systems Integration</li>
+  <li>Familiar with Agile development concepts</li>
 </ul>
 
 <h3><a name="offer"></a>What Can I Offer?</h3>
